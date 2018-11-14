@@ -1,6 +1,12 @@
 # tabtabtab
 
-Forked for [Nama](https://github.com/alecdibble/nama)
+Forked from  
+Changes for [Nama](https://github.com/alecdibble/nama) but implemented generically.
+
+Changes:
+* Supports specifying shell type in install function
+* More clear command line prompts
+* Supports passing application name and displaying in command prompts
 
 
 # Original Documentation

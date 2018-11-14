@@ -1,7 +1,8 @@
 {
-  "author": "mklabs",
-  "name": "tabtab",
-  "description": "tab completion helpers, for node cli programs. Inspired by npm completion.",
+  "author": "alecdibble",
+  "name": "tabtabtab",
+  "version": "0.1.1",
+  "description": "tab completion helpers, for node cli programs. Forked from tabtab.",
   "main": "lib/index.js",
   "scripts": {
     "test": "mkdirp ~/.config/tabtab && DEBUG='tabtab*' c8 mocha --timeout 5000",
@@ -43,7 +44,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mklabs/tabtab.git"
+    "url": "https://github.com/alecdibble/tabtabtab.git"
   },
   "dependencies": {
     "debug": "^4.0.1",
@@ -58,6 +59,5 @@
     "unreleased": true,
     "commitLimit": false,
     "ignoreCommitPattern": "changelog|readme|^test"
-  },
-  "version": "3.0.2"
+  }
 }
