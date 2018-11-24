@@ -1,7 +1,7 @@
 {
   "author": "alecdibble",
   "name": "tabtabtab",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "description": "tab completion helpers, for node cli programs. Forked from tabtab.",
   "main": "lib/index.js",
   "scripts": {
